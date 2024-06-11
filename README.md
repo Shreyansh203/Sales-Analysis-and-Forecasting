@@ -1,4 +1,4 @@
-REVOLUTIONIZING-WALMART-SALES-FORECASTING-A-TIME-SERIES-ANALYSIS-APPROACH-
+REVOLUTIONIZING-WALMART-SALES-FORECASTING-A-TIME-SERIES-ANALYSIS-APPROACH:
 This project aims to forecast weekly sales for Walmart stores using two different time series forecasting techniques: "SARIMAX" and "PROPHET". The dataset used in this project contains historical weekly sales data for 45 Walmart stores.
 
 Techniques Used:
